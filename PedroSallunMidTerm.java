@@ -1,5 +1,6 @@
 // Pedro Sallun
 public class PedroSallunMidTerm
+//reviwed by Pedro Sallun
 { 
     public static void main(String[] args) 
     { 
